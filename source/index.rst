@@ -2,7 +2,7 @@ Unistorage
 ==========
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     intro.rst
     api.rst
